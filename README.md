@@ -1,4 +1,4 @@
-# School Analysis Pandas Demo:
+# School District Analysis Pandas Demo:
 
 In this example I assist a fictional school board and mayor to make strategic decisions regarding future school budgets and priorities.
 
